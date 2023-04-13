@@ -1,0 +1,26 @@
+{
+  "name": "36_CRUD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenya385/36_CRUD.git"
+  },
+  "keywords": [],
+  "author": "Roman Zeno <zeno385@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenya385/36_CRUD/issues"
+  },
+  "homepage": "https://github.com/zenya385/36_CRUD#readme"
+}
